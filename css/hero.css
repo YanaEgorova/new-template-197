@@ -107,15 +107,7 @@
     margin-right: auto;
     max-width: 55rem;
 }
-.question__list {
-    margin-bottom: 5rem;
-}
-.question__img {
-    display: block;
-    width: 100%;
-    max-width: 60rem;
-    margin: 0 auto;
-}
+
 
 
 .sub-title span {
@@ -241,16 +233,5 @@
     }
 
 
-    .question__block {
-        display: flex;
-        align-items: center;
-        justify-content: space-around;
-    }
-    .question__list {
-        margin-bottom: 0;
-        text-align: left;
-    }
-    .question__img {
-        margin: 0;
-    }
+    
 }
