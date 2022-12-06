@@ -201,7 +201,7 @@ body.error-active .error__overlay {
   margin-right: 4rem;
 }
 .btn-arrow {
-  background-image: linear-gradient(to right bottom, #01b78c, #00ae96, #00a59c, #009b9f, #00919e);
+  background-image: linear-gradient(to right bottom, var(--second-brand-color), var(--third-brand-color));
   width: 5rem;
   height: 100%;
   display: flex;

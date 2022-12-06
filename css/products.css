@@ -54,7 +54,7 @@
     max-width: 70rem;
     margin: 0 auto;
     width: fit-content;
-    background-image: linear-gradient(to right bottom, #01b78c, #00ae96, #00a59c, #009b9f, #00919e);
+    background-image: linear-gradient(to right bottom, var(--second-brand-color), var(--third-brand-color));
 }
 
 .product__img-box {
@@ -125,7 +125,7 @@
 }
 .swiper-button-next,
 .swiper-button-prev {
-    background-image: linear-gradient(to right bottom, #01b78c, #00ae96, #00a59c, #009b9f, #00919e);
+    background-image: linear-gradient(to right bottom, var(--second-brand-color), var(--third-brand-color));
    width: 6rem;
    height: 6rem;
    border-radius: 50%;
