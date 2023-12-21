@@ -120,7 +120,6 @@ body.open-menu {
 }
 .header__logo {
     display: block;
-    text-align: center;
     position: relative;
     z-index: 999999999;
 }
